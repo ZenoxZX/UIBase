@@ -1,0 +1,15 @@
+{
+  "name": "com.zenoxzx.ui-base",
+  "displayName": "UI Base",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "Base for hypercasual games ui.",
+  "author": {
+    "name": "Aygun OZGUR",
+    "email": "aygunozmen@gmail.com",
+    "url": "https://github.com/ZenoxZX"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
